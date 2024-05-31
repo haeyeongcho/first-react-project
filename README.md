@@ -1,1 +1,1 @@
-# first_react_project
+# first-react-project
